@@ -497,6 +497,6 @@ font-size:1rem;
 
 .slide{padding:300px 0px; width:100%;}
 
-.slide1{background-image: url('../img/blog2.jpg');background-size: 100%;background-repeat: no-repeat;}
-.slide2{background-image: url('../img/blog1.jpg');background-size: 100%;background-repeat: no-repeat;}
+.slide1{background-image: url('../img/light1.png');background-size: 100%;background-repeat: no-repeat;}
+.slide2{background-image: url('../img/light.png');background-size: 100%;background-repeat: no-repeat;}
 .slide3{background-image: url('../img/light3.jpg');background-size: 100%;background-repeat: no-repeat;}
